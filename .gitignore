@@ -1,6 +1,7 @@
 /config.yaml
 /content
 .vscode
+.DS_Store
 
 ### Hugo ###
 # Generated files by hugo
